@@ -49,6 +49,6 @@ default:
 System.out.println("Wrong operator");
 }
 
-scnr.close();
+
 }
 }
